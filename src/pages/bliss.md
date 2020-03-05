@@ -1,12 +1,12 @@
 ---
-title: 'w.b'
+title: 'b l i s s'
 template: blocks
 blocks:
 - template: block__hero
   component: hero
   background: transparent
-  title: I'm Weston.
-  subtitle: I like to solve problems with creative technology.
+  title: b l i s s
+  subtitle: A Gatsby Starter Built for Forestry
 - template: block__feature
   component: feature
   image: "/src/images/forestry_markdown_editor.png"

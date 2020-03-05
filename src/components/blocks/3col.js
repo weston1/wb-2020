@@ -8,8 +8,8 @@ const ThreeCol = ({ block }) => (
       <div className="container section page-content">
         {block.title && (
           <>
-          <h2 className="title is-3 has-text-centered">{block.title}</h2>
-          <hr />
+            <h2 className="title is-3 has-text-centered">{block.title}</h2>
+            <hr />
           </>
         )}
         <div className="columns">
