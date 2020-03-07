@@ -21,8 +21,8 @@ fields:
   label: Footer
   type: textarea
   config:
-    wysiwyg: true
+    wysiwyg: false
     schema:
-      format: inline_html
+      format: ''
   hidden: false
   default: ''
